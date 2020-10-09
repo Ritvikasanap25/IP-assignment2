@@ -1,0 +1,17 @@
+body{
+ background-image:url(img1.jpg);
+}
+th{
+ background-color:red;
+}
+tr:nth-child(odd)
+{
+ background:rgba(23, 9, 220, 0.727);
+}
+tr:nth-child(even)
+{
+ background: #FFFF00;;
+}
+a:link{
+ text-decoration:none;
+}
